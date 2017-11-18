@@ -1,0 +1,243 @@
+[20.051956177] 2017-11-09 12:07:28,014 - INFO - launcher: Starting sanity checks
+[20.051956177] 2017-11-09 12:07:28,014 - INFO - launcher: Checking for python 3.5+
+[21.557331085] 2017-11-09 12:07:28,015 - INFO - launcher: Checking console encoding
+[21.557331085] 2017-11-09 12:07:28,015 - INFO - launcher: Setting console encoding to UTF-8
+[21.557331085] 2017-11-09 12:07:28,015 - INFO - launcher: Ensuring we're in the right folder
+[572.155714035] 2017-11-09 12:07:28,566 - INFO - launcher: Adding local bins/ folder to path
+[573.659658432] 2017-11-09 12:07:28,568 - INFO - launcher: Checks passed.
+[574.662685394] 2017-11-09 12:07:28,569 - INFO - launcher: Moving old musicbot log
+
+######################### PRE-RUN SANITY CHECKS PASSED #########################
+
+[26.5082855224609375] 2017-11-09 12:07:54,502 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 200 in _setup_logging: Set logging level to INFO
+[26.5082855224609375] 2017-11-09 12:07:54,502 - INFO - musicbot.bot | In bot.py::MainThread(236), line 77 in __init__: Loaded autoplaylist with 2450 entries
+[26.510263681] launcher-INFO: Connecting
+[30.2978818416595459] 2017-11-09 12:07:58,292 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 990 in on_ready: Connection established, ready to go.
+[30.2978818416595459] 2017-11-09 12:07:58,292 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 311 in _cache_app_info: Caching app info
+[30.5376160144805908] 2017-11-09 12:07:58,531 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 807 in _scheck_ensure_env: Ensuring data folders exist
+[30.5471241474151611] 2017-11-09 12:07:58,541 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 823 in _scheck_server_permissions: Checking server permissions
+[30.5476174354553223] 2017-11-09 12:07:58,541 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 827 in _scheck_autoplaylist: Auditing autoplaylist
+[30.5476174354553223] 2017-11-09 12:07:58,541 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 831 in _scheck_configs: Validating config
+[30.5476174354553223] 2017-11-09 12:07:58,541 - DEBUG - musicbot.config | In config.py::MainThread(236), line 175 in async_validate: Validating options...
+[30.5476174354553223] 2017-11-09 12:07:58,541 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 834 in _scheck_configs: Validating permissions config
+[30.5476174354553223] 2017-11-09 12:07:58,541 - DEBUG - musicbot.permissions | In permissions.py::MainThread(236), line 59 in async_validate: Validating permissions...
+[30.5481204986572266] 2017-11-09 12:07:58,542 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1001 in on_ready: Connected!  Musicbot v1.9.6-review
+
+[30.5486214160919189] 2017-11-09 12:07:58,542 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1011 in on_ready: Bot:   295374062954217472/Jukebox#3482 [BOT]
+[30.5491216182708740] 2017-11-09 12:07:58,543 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1019 in on_ready: Owner: 148356446935973888/[AU] IronWarZ#1217
+
+[30.5491216182708740] 2017-11-09 12:07:58,543 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1022 in on_ready: Server List:
+[30.5496232509613037] 2017-11-09 12:07:58,543 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1023 in <listcomp>:  - brencorp
+[30.5501244068145752] 2017-11-09 12:07:58,544 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1023 in <listcomp>:  - 404
+[30.5501244068145752] 2017-11-09 12:07:58,544 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1054 in on_ready: Bound to text channels:
+[30.5501244068145752] 2017-11-09 12:07:58,544 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1055 in <listcomp>:  - brencorp/music-commands
+[30.5506255626678467] 2017-11-09 12:07:58,544 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1080 in on_ready: Autojoining voice chanels:
+[30.5511353015899658] 2017-11-09 12:07:58,545 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1081 in <listcomp>:  - brencorp/Music
+[30.5516359806060791] 2017-11-09 12:07:58,545 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1097 in on_ready: Options:
+[30.5521297454833984] 2017-11-09 12:07:58,546 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1099 in on_ready:   Command prefix: !
+[30.5526311397552490] 2017-11-09 12:07:58,546 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1100 in on_ready:   Default volume: 15%
+[30.5526311397552490] 2017-11-09 12:07:58,546 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1102 in on_ready:   Skip threshold: 4 votes or 50%
+[30.5531337261199951] 2017-11-09 12:07:58,547 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1103 in on_ready:   Now Playing @mentions: Disabled
+[30.5536346435546875] 2017-11-09 12:07:58,547 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1104 in on_ready:   Auto-Summon: Enabled
+[30.5541350841522217] 2017-11-09 12:07:58,548 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1105 in on_ready:   Auto-Playlist: Enabled
+[30.5546364784240723] 2017-11-09 12:07:58,548 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1106 in on_ready:   Auto-Pause: Enabled
+[30.5551385879516602] 2017-11-09 12:07:58,549 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1107 in on_ready:   Delete Messages: Enabled
+[30.5551385879516602] 2017-11-09 12:07:58,549 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1109 in on_ready:     Delete Invoking: Enabled
+[30.5556397438049316] 2017-11-09 12:07:58,549 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1110 in on_ready:   Debug Mode: Disabled
+[30.5561401844024658] 2017-11-09 12:07:58,550 - INFO - musicbot.bot | In bot.py::MainThread(236), line 1111 in on_ready:   Downloaded songs will be saved
+[30.5586473941802979] 2017-11-09 12:07:58,553 - INFO - musicbot.bot | In bot.py::MainThread(236), line 254 in _join_startup_channels: Attempting to join brencorp/Music
+[30.5591492652893066] 2017-11-09 12:07:58,553 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 424 in get_voice_client: Connection attempt 1 to Music
+[30.5596499443054199] 2017-11-09 12:07:58,554 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 363 in join_voice_channel: (join_voice_channel) creating futures
+[30.5596499443054199] 2017-11-09 12:07:58,554 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 369 in join_voice_channel: (join_voice_channel) setting voice state
+[30.5596499443054199] 2017-11-09 12:07:58,554 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 372 in join_voice_channel: (join_voice_channel) waiting for session id
+[30.8171880245208740] 2017-11-09 12:07:58,811 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 295374062954217472/Jukebox#3482 on brencorp/Music -> [JOIN, CONNECT]
+[30.8171880245208740] 2017-11-09 12:07:58,811 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2559 in on_voice_state_update: 295374062954217472/Jukebox#3482 has joined brencorp/Music
+[30.8176889419555664] 2017-11-09 12:07:58,812 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 376 in join_voice_channel: (join_voice_channel) waiting for voice data
+[31.1398727893829346] 2017-11-09 12:07:59,134 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 390 in join_voice_channel: (join_voice_channel) connecting...
+[31.3267045021057129] 2017-11-09 12:07:59,321 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 402 in join_voice_channel: (join_voice_channel) connection successful
+[31.3272054195404053] 2017-11-09 12:07:59,321 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 450 in get_voice_client: Connected in 0.8s
+[31.3272054195404053] 2017-11-09 12:07:59,321 - INFO - musicbot.bot | In bot.py::MainThread(236), line 451 in get_voice_client: Connected to brencorp/Music
+[31.3282084465026855] 2017-11-09 12:07:59,322 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 784 in deserialize_queue: Deserializing queue for 199742567305183232
+[31.6957485675811768] 2017-11-09 12:07:59,690 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 542 in get_player: Created player via deserialization for server 199742567305183232 with 1 entries
+[31.6957485675811768] 2017-11-09 12:07:59,690 - INFO - musicbot.bot | In bot.py::MainThread(236), line 270 in _join_startup_channels: Joined brencorp/Music
+[31.6987562179565430] 2017-11-09 12:07:59,693 - VOICEDEBUG - musicbot.player | In player.py::MainThread(236), line 313 in websocket_check: Starting websocket check loop for brencorp
+[31.6992576122283936] 2017-11-09 12:07:59,693 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-RVJiwyg0iDM-Reelin_In_The_Years.webm
+[35.0482280254364014] 2017-11-09 12:08:03,042 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[154.0969526767730713] 2017-11-09 12:10:02,091 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[177.4083087444305420] 2017-11-09 12:10:25,402 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 199741893884641280/DrSp3d#2417 on brencorp/Music -> [JOIN, CONNECT]
+[177.4083087444305420] 2017-11-09 12:10:25,402 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2559 in on_voice_state_update: 199741893884641280/DrSp3d#2417 has joined brencorp/Music
+[183.2767794132232666] 2017-11-09 12:10:31,271 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[220.8453543186187744] 2017-11-09 12:11:08,839 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !help
+[256.2470085620880127] 2017-11-09 12:11:44,241 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !help play
+[279.1599478721618652] 2017-11-09 12:12:07,154 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !play https://www.youtube.com/watch?v=C4nCy5CITc8
+[287.0053987503051758] 2017-11-09 12:12:14,999 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[287.0596759319305420] 2017-11-09 12:12:15,054 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=C4nCy5CITc8
+[290.6327464580535889] 2017-11-09 12:12:18,627 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=C4nCy5CITc8
+[312.4895536899566650] 2017-11-09 12:12:40,483 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-C4nCy5CITc8-The_Four_Horsemen_-_Metallica.webm
+[312.4925620555877686] 2017-11-09 12:12:40,486 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[312.4995806217193604] 2017-11-09 12:12:40,493 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[512.1561820507049561] 2017-11-09 12:16:00,150 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[745.2455291748046875] 2017-11-09 12:19:53,239 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[748.4972918033599854] 2017-11-09 12:19:56,491 - ERROR - musicbot.bot | In bot.py::MainThread(236), line 638 in on_player_finished_playing: Error processing youtube url:
+ERROR: LAoZSikvqz8: YouTube said: This video contains content from justente, who has blocked it in your country on copyright grounds.
+[748.4983196258544922] 2017-11-09 12:19:56,492 - INFO - musicbot.bot | In bot.py::MainThread(236), line 324 in remove_from_autoplaylist: Removing unplayable song from autoplaylist: https://youtube.com/watch?v=LAoZSikvqz8
+[748.5190677642822266] 2017-11-09 12:19:56,513 - INFO - musicbot.bot | In bot.py::MainThread(236), line 338 in remove_from_autoplaylist: Updating autoplaylist
+[752.7133896350860596] 2017-11-09 12:20:00,707 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=vpL2sWLwEtU
+[754.7044360637664795] 2017-11-09 12:20:02,698 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-vpL2sWLwEtU-Disturbed_-_Droppin_Plates.webm
+[754.7099511623382568] 2017-11-09 12:20:02,704 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[776.6723649501800537] 2017-11-09 12:20:24,666 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !np
+[782.8572516441345215] 2017-11-09 12:20:30,851 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!np", message not found
+[827.4226632118225098] 2017-11-09 12:21:15,417 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !play https://www.youtube.com/watch?v=wFCz4e6rWzg
+[831.7368609905242920] 2017-11-09 12:21:19,731 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[832.2722451686859131] 2017-11-09 12:21:20,266 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=wFCz4e6rWzg
+[838.4480900764465332] 2017-11-09 12:21:26,442 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=wFCz4e6rWzg
+[896.7101955413818359] 2017-11-09 12:22:24,704 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[934.4696893692016602] 2017-11-09 12:23:02,464 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[935.0407922267913818] 2017-11-09 12:23:03,035 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[949.3233244419097900] 2017-11-09 12:23:17,317 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[984.0910346508026123] 2017-11-09 12:23:52,085 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-wFCz4e6rWzg-Disturbed-_Shout_2000.webm
+[984.0940341949462891] 2017-11-09 12:23:52,088 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[984.6184282302856445] 2017-11-09 12:23:52,612 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1245.2835264205932617] 2017-11-09 12:28:13,277 - ERROR - musicbot.bot | In bot.py::MainThread(236), line 638 in on_player_finished_playing: Error processing youtube url:
+ERROR: oyveOd7jOx4: YouTube said: This video does not exist.
+[1245.2845296859741211] 2017-11-09 12:28:13,278 - INFO - musicbot.bot | In bot.py::MainThread(236), line 324 in remove_from_autoplaylist: Removing unplayable song from autoplaylist: https://youtube.com/watch?v=oyveOd7jOx4
+[1245.9061732292175293] 2017-11-09 12:28:13,900 - INFO - musicbot.bot | In bot.py::MainThread(236), line 338 in remove_from_autoplaylist: Updating autoplaylist
+[1250.7947983741760254] 2017-11-09 12:28:18,789 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=_L2vJEb6lVE
+[1252.7831199169158936] 2017-11-09 12:28:20,777 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-_L2vJEb6lVE-SchoolBoy_Q_-_Collard_Greens_Explicit_ft._Kendrick_Lamar.webm
+[1252.7896368503570557] 2017-11-09 12:28:20,783 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1268.8789515495300293] 2017-11-09 12:28:36,873 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !skip
+[1273.6386289596557617] 2017-11-09 12:28:41,632 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=MiCPrYdraL4
+[1274.4180176258087158] 2017-11-09 12:28:42,412 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!skip", message not found
+[1275.6297230720520020] 2017-11-09 12:28:43,624 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-MiCPrYdraL4-Slipknot_-_Sulfur_HQ.webm
+[1275.6327304840087891] 2017-11-09 12:28:43,627 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1341.2222962379455566] 2017-11-09 12:29:49,216 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !play https://www.youtube.com/watch?v=Eh65JlH3vq4
+[1346.5024354457855225] 2017-11-09 12:29:54,496 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1347.0358660221099854] 2017-11-09 12:29:55,030 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=Eh65JlH3vq4
+[1353.1386871337890625] 2017-11-09 12:30:01,133 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=Eh65JlH3vq4
+[1372.2367699146270752] 2017-11-09 12:30:20,231 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !play https://www.youtube.com/watch?v=m46Z0-HXySo
+[1376.5821990966796875] 2017-11-09 12:30:24,576 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1553.8545165061950684] 2017-11-09 12:33:21,848 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Eh65JlH3vq4-Suckers.webm
+[1553.8580257892608643] 2017-11-09 12:33:21,852 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1554.4534380435943604] 2017-11-09 12:33:22,447 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://www.youtube.com/watch?v=m46Z0-HXySo
+[1554.4564456939697266] 2017-11-09 12:33:22,450 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1558.0213570594787598] 2017-11-09 12:33:26,015 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://www.youtube.com/watch?v=m46Z0-HXySo
+[1735.9054291248321533] 2017-11-09 12:36:23,899 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2539 in on_voice_state_update: Empty voice state update, likely a session id change
+[1794.1595079898834229] 2017-11-09 12:37:22,153 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-m46Z0-HXySo-Metallica_-_Spit_Out_the_Bone_Official_Music_Video.webm
+[1794.1695356369018555] 2017-11-09 12:37:22,163 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[1794.7053678035736084] 2017-11-09 12:37:22,699 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[2200.1521875858306885] 2017-11-09 12:44:08,146 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !help
+[2212.8437280654907227] 2017-11-09 12:44:20,838 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !volume help
+[2212.8442301750183105] 2017-11-09 12:44:20,838 - ERROR - musicbot.bot | In bot.py::MainThread(236), line 2499 in on_message: Error in volume: PermissionsError: You don't have permission to use that command.
+Reason: This command is not enabled for your group (Default).
+Traceback (most recent call last):
+  File "H:\MusicBot\musicbot\bot.py", line 2461, in on_message
+    expire_in=20)
+musicbot.exceptions.PermissionsError: This command is not enabled for your group (Default).
+[2218.1958615779876709] 2017-11-09 12:44:26,190 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !help volume
+[2228.5316612720489502] 2017-11-09 12:44:36,526 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=v9U0qMHHkSo
+[2230.5218021869659424] 2017-11-09 12:44:38,516 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-v9U0qMHHkSo-Billie_Eilish_-_Ocean_Eyes_Astronomyy_Remix.webm
+[2230.5263142585754395] 2017-11-09 12:44:38,520 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[2233.4402222633361816] 2017-11-09 12:44:41,434 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!volume help", message not found
+[2245.5017201900482178] 2017-11-09 12:44:53,496 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 199741893884641280/DrSp3d#2417: !volume -20
+[2245.5072338581085205] 2017-11-09 12:44:53,501 - ERROR - musicbot.bot | In bot.py::MainThread(236), line 2499 in on_message: Error in volume: PermissionsError: You don't have permission to use that command.
+Reason: This command is not enabled for your group (Default).
+Traceback (most recent call last):
+  File "H:\MusicBot\musicbot\bot.py", line 2461, in on_message
+    expire_in=20)
+musicbot.exceptions.PermissionsError: This command is not enabled for your group (Default).
+[2266.0658075809478760] 2017-11-09 12:45:14,060 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!volume -20", message not found
+[2530.4672820568084717] 2017-11-09 12:49:38,461 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=jfSc58Jk4zg
+[2532.4648988246917725] 2017-11-09 12:49:40,459 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-jfSc58Jk4zg-Smallpools_-_Dreaming_The_Chainsmokers_Remix.webm
+[2532.4694116115570068] 2017-11-09 12:49:40,463 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[2533.0397970676422119] 2017-11-09 12:49:41,034 - FFMPEG - musicbot.player | In player.py::Thread-14 stderr reader(10500), line 411 in filter_stderr: Data from ffmpeg: b'[s16le @ 03c32800] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 2216 >= 2191\r\n'
+[2828.4421741962432861] 2017-11-09 12:54:36,436 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=Djcti31JFGg
+[2830.4527537822723389] 2017-11-09 12:54:38,447 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Djcti31JFGg-Count_Basie_His_Orchestra_Blue_and_Sentimental_Decca_1965_1938_Lester_Young.m4a
+[2830.4587705135345459] 2017-11-09 12:54:38,453 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[3019.4376924037933350] 2017-11-09 12:57:47,432 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=QrV61ATP3Ec
+[3022.3259353637695312] 2017-11-09 12:57:50,320 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=QrV61ATP3Ec
+[3022.3284652233123779] 2017-11-09 12:57:50,322 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-QrV61ATP3Ec-Megadeth_-_Dystopia_Audio.webm
+[3022.3314492702484131] 2017-11-09 12:57:50,325 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[3162.3641977310180664] 2017-11-09 13:00:10,358 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[3162.4859387874603271] 2017-11-09 13:00:10,480 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[3163.4762887954711914] 2017-11-09 13:00:11,470 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[3325.4871559143066406] 2017-11-09 13:02:53,481 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=-BIlJRa-1pw
+[3327.4915845394134521] 2017-11-09 13:02:55,485 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube--BIlJRa-1pw-Bill_Evans_-_The_Peacocks.webm
+[3327.4991049766540527] 2017-11-09 13:02:55,493 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[3582.9090831279754639] 2017-11-09 13:07:10,903 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[3588.7949576377868652] 2017-11-09 13:07:16,789 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [MUTE]
+[3698.3760416507720947] 2017-11-09 13:09:06,370 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=YLs1oVbbaEg
+[3701.9095766544342041] 2017-11-09 13:09:09,903 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=YLs1oVbbaEg
+[3701.9115812778472900] 2017-11-09 13:09:09,905 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-YLs1oVbbaEg-GRITS_feat._TobyMac_-_Ooh_Ahh.webm
+[3706.0285651683807373] 2017-11-09 13:09:14,022 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[3719.9434690475463867] 2017-11-09 13:09:27,937 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 148356446935973888/[AU] IronWarZ#1217 on brencorp/Music -> [UNMUTE]
+[3725.2411122322082520] 2017-11-09 13:09:33,235 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 256734938664140800/Maddog#3761 on 404/Music -> [CONNECT]
+[3734.1285257339477539] 2017-11-09 13:09:42,122 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 256734938664140800/Maddog#3761 on 404/Music -> [DISCONNECT]
+[3943.3807532787322998] 2017-11-09 13:13:11,375 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=lC_RwbN8h9s
+[3945.3827564716339111] 2017-11-09 13:13:13,377 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-lC_RwbN8h9s-Slime_girls_-_HEART_ON_WAVE_-_Track_5_Video_girl_kanon_kid.m4a
+[3945.3917803764343262] 2017-11-09 13:13:13,386 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[4175.3384723663330078] 2017-11-09 13:17:03,332 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=TJUVNg5zxAs
+[4177.3400542736053467] 2017-11-09 13:17:05,334 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-TJUVNg5zxAs-Halsey_-_Colors_Audien_Remix.webm
+[4177.3475742340087891] 2017-11-09 13:17:05,341 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[4419.0754406452178955] 2017-11-09 13:21:07,069 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=nY9WcDbjMmE
+[4421.0717692375183105] 2017-11-09 13:21:09,066 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-nY9WcDbjMmE-Pornophonique_-_Game_over.webm
+[4421.0762805938720703] 2017-11-09 13:21:09,070 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[4634.4104738235473633] 2017-11-09 13:24:42,404 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=m_ZDBLjicDw
+[4638.0424935817718506] 2017-11-09 13:24:46,036 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=m_ZDBLjicDw
+[4638.0465044975280762] 2017-11-09 13:24:46,040 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-m_ZDBLjicDw-Bliss_n_Eso_-_Animal_Kingdom_Circus_In_The_Sky.webm
+[4638.0505192279815674] 2017-11-09 13:24:46,044 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[4809.4484615325927734] 2017-11-09 13:27:37,442 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=J7IMwop3RHs
+[4812.1523892879486084] 2017-11-09 13:27:40,146 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=J7IMwop3RHs
+[4812.1574029922485352] 2017-11-09 13:27:40,151 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-J7IMwop3RHs-Rob_tone_-_Chill_Bill_ft._J.Davis_Spooks_Dir._Alex_Vibe.webm
+[4812.1614136695861816] 2017-11-09 13:27:40,155 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[4969.1986348628997803] 2017-11-09 13:30:17,192 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !skip
+[4973.9133107662200928] 2017-11-09 13:30:21,907 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=UyNllqk-4iM
+[4974.7384326457977295] 2017-11-09 13:30:22,732 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!skip", message not found
+[4975.9118301868438721] 2017-11-09 13:30:23,906 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-UyNllqk-4iM-bignic_-_life.webm
+[4975.9152483940124512] 2017-11-09 13:30:23,909 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[5144.4854824542999268] 2017-11-09 13:33:12,479 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 230950900770799617/Widiman#0186 on brencorp/Music -> [LEAVE, DISCONNECT]
+[5144.4859838485717773] 2017-11-09 13:33:12,480 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2559 in on_voice_state_update: 230950900770799617/Widiman#0186 has left brencorp/Music
+[5212.1502134799957275] 2017-11-09 13:34:20,144 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=Hj2vU2nr5Jw
+[5214.1416082382202148] 2017-11-09 13:34:22,135 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-Hj2vU2nr5Jw-Disturbed-Indestructible_Lyrics.webm
+[5214.1450316905975342] 2017-11-09 13:34:22,139 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[5222.6084551811218262] 2017-11-09 13:34:30,602 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !np
+[5228.8279573917388916] 2017-11-09 13:34:36,822 - INFO - musicbot.bot | In bot.py::MainThread(236), line 981 in on_resumed: 
+Reconnected to discord.
+
+[5229.0184645652770996] 2017-11-09 13:34:37,012 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!np", message not found
+[5435.9865486621856689] 2017-11-09 13:38:03,980 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2539 in on_voice_state_update: Empty voice state update, likely a session id change
+[5493.5162422657012939] 2017-11-09 13:39:01,510 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=aq9YpxZiHY4
+[5495.5012211799621582] 2017-11-09 13:39:03,495 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-aq9YpxZiHY4-Hyraxe_-_Towards_the_Sun_ft._Tevlo.webm
+[5495.5042290687561035] 2017-11-09 13:39:03,498 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[5723.5946195125579834] 2017-11-09 13:42:51,588 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=K1b8AhIsSYQ
+[5725.5849153995513916] 2017-11-09 13:42:53,579 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-K1b8AhIsSYQ-Starship_-_We_Built_This_City.webm
+[5725.5904295444488525] 2017-11-09 13:42:53,584 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6027.0120301246643066] 2017-11-09 13:47:55,006 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=iOKV9Stri_M
+[6030.8100736141204834] 2017-11-09 13:47:58,804 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=iOKV9Stri_M
+[6030.8125798702239990] 2017-11-09 13:47:58,806 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-iOKV9Stri_M-Tool-Vicarious.webm
+[6030.8160896301269531] 2017-11-09 13:47:58,810 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6068.6783246994018555] 2017-11-09 13:48:36,672 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !np
+[6074.8710386753082275] 2017-11-09 13:48:42,865 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!np", message not found
+[6468.6406061649322510] 2017-11-09 13:55:16,634 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=8ir0d7bjMIk
+[6475.6049664020538330] 2017-11-09 13:55:23,599 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=8ir0d7bjMIk
+[6475.6069717407226562] 2017-11-09 13:55:23,601 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-8ir0d7bjMIk-Stickerbush_Symphony_-_Donkey_Kong_Country_2.m4a
+[6475.6094784736633301] 2017-11-09 13:55:23,603 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6622.8169174194335938] 2017-11-09 13:57:50,811 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=hxcmik9Rs40
+[6625.4325258731842041] 2017-11-09 13:57:53,426 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=hxcmik9Rs40
+[6625.4350330829620361] 2017-11-09 13:57:53,429 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-hxcmik9Rs40-Chris_Young_-_I_m_Comin_Over.webm
+[6625.4425530433654785] 2017-11-09 13:57:53,436 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6733.1903588771820068] 2017-11-09 13:59:41,184 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !skip
+[6736.2950787544250488] 2017-11-09 13:59:44,289 - INFO - musicbot.entry | In entry.py::MainThread(236), line 219 in _really_download: Download started: https://youtube.com/watch?v=nw2qiR6f05Q
+[6738.7492518424987793] 2017-11-09 13:59:46,743 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!skip", message not found
+[6743.8628473281860352] 2017-11-09 13:59:51,857 - INFO - musicbot.entry | In entry.py::MainThread(236), line 226 in _really_download: Download complete: https://youtube.com/watch?v=nw2qiR6f05Q
+[6743.8643507957458496] 2017-11-09 13:59:51,858 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-nw2qiR6f05Q-TIME_--_Learning_Chiptune.webm
+[6743.8728733062744141] 2017-11-09 13:59:51,867 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6743.8989424705505371] 2017-11-09 13:59:51,893 - FFMPEG - musicbot.player | In player.py::Thread-40 stderr reader(12524), line 411 in filter_stderr: Data from ffmpeg: b'[s16le @ 051f67c0] Application provided invalid, non monotonically increasing dts to muxer in stream 0: 2216 >= 2191\r\n'
+[6774.0095925331115723] 2017-11-09 14:00:22,003 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !np
+[6779.9767520427703857] 2017-11-09 14:00:27,971 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !skip
+[6780.0589702129364014] 2017-11-09 14:00:28,053 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!np", message not found
+[6783.2742705345153809] 2017-11-09 14:00:31,268 - INFO - musicbot.entry | In entry.py::MainThread(236), line 195 in _download: Download cached: https://youtube.com/watch?v=lS7_tcwsj4E
+[6785.2753660678863525] 2017-11-09 14:00:33,269 - FFMPEG - musicbot.player | In player.py::MainThread(236), line 270 in _play: Creating player with options: -nostdin -vn audio_cache\youtube-lS7_tcwsj4E-Donkey_Kong_Country_OST_22_Gang-Plank_Galleon.webm
+[6785.2828855514526367] 2017-11-09 14:00:33,277 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 760 in serialize_queue: Serializing queue for 199742567305183232
+[6786.0870172977447510] 2017-11-09 14:00:34,081 - DEBUG - musicbot.bot | In bot.py::MainThread(236), line 888 in safe_delete_message: Cannot delete message "!skip", message not found
+[6797.6938412189483643] 2017-11-09 14:00:45,688 - INFO - musicbot.bot | In bot.py::MainThread(236), line 2379 in on_message: 148356446935973888/[AU] IronWarZ#1217: !restart
+[6798.2635886669158936] 2017-11-09 14:00:46,257 - VOICEDEBUG - musicbot.bot | In bot.py::MainThread(236), line 2548 in on_voice_state_update: Voice state update for 295374062954217472/Jukebox#3482 on brencorp/Music -> [DISCONNECT]

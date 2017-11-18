@@ -1,0 +1,554 @@
+# Entry removed Mon Aug 21 18:09:38 2017
+# Reason: ERROR: KT-d_3SvyCc: YouTube said: This video is not available.
+https://youtube.com/watch?v=KT-d_3SvyCc
+
+################################
+
+# Entry removed Mon Aug 21 19:41:16 2017
+# Reason: ERROR: YLKJASUKB0g: YouTube said: "Galactic - Cineramascope (f..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=YLKJASUKB0g
+
+################################
+
+# Entry removed Mon Aug 21 20:20:35 2017
+# Reason: ERROR: mk0PdLZqZqU: YouTube said: This video is not available.
+https://youtube.com/watch?v=mk0PdLZqZqU
+
+################################
+
+# Entry removed Mon Aug 21 22:27:39 2017
+# Reason: ERROR: 9WjNGF9_go0: YouTube said: This video is not available.
+https://youtube.com/watch?v=9WjNGF9_go0
+
+################################
+
+# Entry removed Tue Aug 22 00:09:03 2017
+# Reason: ERROR: 2OlAx4Dok38: YouTube said: "Van Halen - Hot fo..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=2OlAx4Dok38
+
+################################
+
+# Entry removed Tue Aug 22 00:12:17 2017
+# Reason: ERROR: lECJ2bu0Kv8: YouTube said: This video contains content from UMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=lECJ2bu0Kv8
+
+################################
+
+# Entry removed Tue Aug 22 23:32:26 2017
+# Reason: ERROR: Sx3Tv0ESXOM: YouTube said: This video does not exist.
+https://youtube.com/watch?v=Sx3Tv0ESXOM
+
+################################
+
+# Entry removed Wed Aug 23 02:57:06 2017
+# Reason: ERROR: yQ84j8HuojY: YouTube said: This video does not exist.
+https://youtube.com/watch?v=yQ84j8HuojY
+
+################################
+
+# Entry removed Wed Aug 23 14:48:54 2017
+# Reason: ERROR: GwHpiBXDaj8: YouTube said: This video is not available.
+https://youtube.com/watch?v=GwHpiBXDaj8
+
+################################
+
+# Entry removed Wed Aug 23 15:28:23 2017
+# Reason: ERROR: YlXRq9-0alw: YouTube said: "Jay Hardway..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=YlXRq9-0alw
+
+################################
+
+# Entry removed Wed Aug 23 17:59:13 2017
+# Reason: ERROR: 2DfYLar2QGI: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=2DfYLar2QGI
+
+################################
+
+# Entry removed Wed Aug 23 17:59:16 2017
+# Reason: ERROR: Fq3QmtV8vT0: YouTube said: "Disturbed-Down w..."
+#          This video is no longer available due to a copyright claim by Warner Music Group.
+https://youtube.com/watch?v=Fq3QmtV8vT0
+
+################################
+
+# Entry removed Thu Aug 24 01:42:31 2017
+# Reason: ERROR: Z590mDXHpLk: YouTube said: "Fear Factory - Demanu..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=Z590mDXHpLk
+
+################################
+
+# Entry removed Thu Aug 24 12:24:48 2017
+# Reason: ERROR: 46Cfrl7hMoQ: YouTube said: "Paul Simon - Me and Julio D..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=46Cfrl7hMoQ
+
+################################
+
+# Entry removed Thu Aug 24 13:24:10 2017
+# Reason: ERROR: hGdU7vPWPMc: YouTube said: This video does not exist.
+https://youtube.com/watch?v=hGdU7vPWPMc
+
+################################
+
+# Entry removed Thu Aug 24 13:24:13 2017
+# Reason: ERROR: 94M_tkjf-JA: YouTube said: This video contains content from Spinnin' Records, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=94M_tkjf-JA
+
+################################
+
+# Entry removed Thu Aug 24 13:30:15 2017
+# Reason: ERROR: FGT67EzVcfs: YouTube said: "Hi Fly - Randy Weston..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=FGT67EzVcfs
+
+################################
+
+# Entry removed Thu Aug 24 20:35:59 2017
+# Reason: ERROR: tpILJTxT1_s: YouTube said: This video is private.
+https://youtube.com/watch?v=tpILJTxT1_s
+
+################################
+
+# Entry removed Thu Aug 24 20:50:20 2017
+# Reason: ERROR: A_wbMkk0gSs: YouTube said: This video is not available.
+https://youtube.com/watch?v=A_wbMkk0gSs
+
+################################
+
+# Entry removed Thu Aug 24 20:50:26 2017
+# Reason: ERROR: HhndO6GdAHg: YouTube said: This video is not available.
+https://youtube.com/watch?v=HhndO6GdAHg
+
+################################
+
+# Entry removed Thu Aug 24 21:32:42 2017
+# Reason: ERROR: ivY2Kfhw31Q: YouTube said: "Quintino & Cheat Co..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=ivY2Kfhw31Q
+
+################################
+
+# Entry removed Thu Aug 24 21:34:25 2017
+# Reason: ERROR: DnedDvXYr8A: YouTube said: This video is not available.
+https://youtube.com/watch?v=DnedDvXYr8A
+
+################################
+
+# Entry removed Thu Aug 24 21:55:04 2017
+# Reason: ERROR: 1z88Vc1oyvU: YouTube said: "MJQ - Djan..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=1z88Vc1oyvU
+
+################################
+
+# Entry removed Thu Aug 24 21:55:08 2017
+# Reason: ERROR: fhxFXi4IQzE: YouTube said: This video contains content from Warner Chappell, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=fhxFXi4IQzE
+
+################################
+
+# Entry removed Thu Aug 24 22:30:53 2017
+# Reason: ERROR: _O-wMuGt63c: YouTube said: This video is private.
+https://youtube.com/watch?v=_O-wMuGt63c
+
+################################
+
+# Entry removed Sat Aug 26 04:06:16 2017
+# Reason: ERROR: The uploader has not made this video available in your country.
+#          You might want to use a VPN or a proxy server (with --proxy) to workaround.
+https://youtube.com/watch?v=mjwV5w0IrcA
+
+################################
+
+# Entry removed Sun Aug 27 09:53:30 2017
+# Reason: ERROR: s4nWy8pmIM4: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=s4nWy8pmIM4
+
+################################
+
+# Entry removed Sun Aug 27 10:56:26 2017
+# Reason: ERROR: QSb46QzHlWg: YouTube said: This video contains content from Spinnin' Records, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=QSb46QzHlWg
+
+################################
+
+# Entry removed Sun Aug 27 11:06:07 2017
+# Reason: ERROR: CW7OXRF7yGY: YouTube said: This video is not available.
+https://youtube.com/watch?v=CW7OXRF7yGY
+
+################################
+
+# Entry removed Sun Aug 27 11:06:29 2017
+# Reason: ERROR: _H1ktl3onMQ: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=_H1ktl3onMQ
+
+################################
+
+# Entry removed Sun Aug 27 11:56:50 2017
+# Reason: ERROR: gnxbNaW4vDk: YouTube said: This video is not available.
+https://youtube.com/watch?v=gnxbNaW4vDk
+
+################################
+
+# Entry removed Sun Aug 27 13:27:23 2017
+# Reason: ERROR: bjPqsDU0j2I: YouTube said: "Electric Light Orch..."
+#          This video is no longer available due to a copyright claim by SME.
+https://youtube.com/watch?v=bjPqsDU0j2I
+
+################################
+
+# Entry removed Sun Aug 27 13:28:13 2017
+# Reason: ERROR: uKpK8RbGlO4: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=uKpK8RbGlO4
+
+################################
+
+# Entry removed Sun Aug 27 13:37:47 2017
+# Reason: ERROR: fQPS2sk1VTY: YouTube said: This video contains content from UMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=fQPS2sk1VTY
+
+################################
+
+# Entry removed Sun Aug 27 13:38:35 2017
+# Reason: ERROR: 73g2Vw_gpkQ: YouTube said: "Eddie Harris..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=73g2Vw_gpkQ
+
+################################
+
+# Entry removed Mon Aug 28 13:09:44 2017
+# Reason: ERROR: SWMG9xA2OJQ: YouTube said: This video is private.
+https://youtube.com/watch?v=SWMG9xA2OJQ
+
+################################
+
+# Entry removed Mon Aug 28 14:33:24 2017
+# Reason: ERROR: wRZ6QyjGIEM: YouTube said: This video does not exist.
+https://youtube.com/watch?v=wRZ6QyjGIEM
+
+################################
+
+# Entry removed Tue Aug 29 14:18:51 2017
+# Reason: ERROR: _xAWiV4drB4: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=_xAWiV4drB4
+
+################################
+
+# Entry removed Tue Aug 29 14:53:25 2017
+# Reason: ERROR: The uploader has not made this video available in your country.
+#          You might want to use a VPN or a proxy server (with --proxy) to workaround.
+https://youtube.com/watch?v=9ZGt4JVX860
+
+################################
+
+# Entry removed Tue Aug 29 15:16:04 2017
+# Reason: ERROR: QMdeUooDwzs: YouTube said: "M-City J.R. - Addicted to..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=QMdeUooDwzs
+
+################################
+
+# Entry removed Tue Aug 29 19:12:11 2017
+# Reason: ERROR: 8p9jSRxguAA: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=8p9jSRxguAA
+
+################################
+
+# Entry removed Tue Aug 29 20:37:38 2017
+# Reason: ERROR: Q-kOFFCkhu0: YouTube said: This video is not available.
+https://youtube.com/watch?v=Q-kOFFCkhu0
+
+################################
+
+# Entry removed Tue Aug 29 21:01:59 2017
+# Reason: ERROR: lrfhf1Gv4Tw: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=lrfhf1Gv4Tw
+
+################################
+
+# Entry removed Tue Aug 29 21:02:22 2017
+# Reason: ERROR: hNmW-QA_kmU: YouTube said: This video is not available.
+https://youtube.com/watch?v=hNmW-QA_kmU
+
+################################
+
+# Entry removed Tue Aug 29 21:08:09 2017
+# Reason: ERROR: Sx3kpa51EyY: YouTube said: This video is not available.
+https://youtube.com/watch?v=Sx3kpa51EyY
+
+################################
+
+# Entry removed Tue Aug 29 22:08:50 2017
+# Reason: ERROR: enEZjjk77Nk: YouTube said: This video does not exist.
+https://youtube.com/watch?v=enEZjjk77Nk
+
+################################
+
+# Entry removed Wed Aug 30 00:12:18 2017
+# Reason: ERROR: cqkzoskWfww: YouTube said: "Nilow - ( Lisa Mitchell ) -..."
+#          This video is no longer available due to a copyright claim by Warner Music Group.
+https://youtube.com/watch?v=cqkzoskWfww
+
+################################
+
+# Entry removed Wed Aug 30 00:20:05 2017
+# Reason: ERROR: D2qAj2XnLYo: YouTube said: "The Beatles - Hey Jude - Ta..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=D2qAj2XnLYo
+
+################################
+
+# Entry removed Wed Aug 30 09:55:31 2017
+# Reason: ERROR: ORsGOVtRH5A: YouTube said: "Acid Bath - The ..."
+#          This video is no longer available due to a copyright claim by ROTTEN RECORDS.
+https://youtube.com/watch?v=ORsGOVtRH5A
+
+################################
+
+# Entry removed Wed Aug 30 16:29:39 2017
+# Reason: ERROR: OlKaVFqxERk: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=OlKaVFqxERk
+
+################################
+
+# Entry removed Wed Aug 30 17:03:21 2017
+# Reason: ERROR: oBllGsz-6Os: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oBllGsz-6Os
+
+################################
+
+# Entry removed Wed Aug 30 17:24:08 2017
+# Reason: ERROR: 1a1Ph-ioxoA: YouTube said: "Bitches Brew- Miles ..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=1a1Ph-ioxoA
+
+################################
+
+# Entry removed Tue Sep  5 09:49:04 2017
+# Reason: ERROR: pJyQpAiMXkg: YouTube said: This video is no longer available because the YouTube account associated with this video has been terminated.
+https://youtube.com/watch?v=pJyQpAiMXkg
+
+################################
+
+# Entry removed Thu Sep 28 19:13:37 2017
+# Reason: ERROR: 8zFgtqK39Zg: YouTube said: "Tito Puente ..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=8zFgtqK39Zg
+
+################################
+
+# Entry removed Fri Oct  6 16:38:03 2017
+# Reason: ERROR: sztK_qd1Pjc: YouTube said: This video is not available.
+https://youtube.com/watch?v=sztK_qd1Pjc
+
+################################
+
+# Entry removed Fri Oct  6 17:06:02 2017
+# Reason: ERROR: rG9myp90oM4: YouTube said: This video is not available.
+https://youtube.com/watch?v=rG9myp90oM4
+
+################################
+
+# Entry removed Fri Oct  6 17:39:45 2017
+# Reason: ERROR: WzSQsl2C5dM: YouTube said: This video is not available.
+https://youtube.com/watch?v=WzSQsl2C5dM
+
+################################
+
+# Entry removed Fri Oct  6 19:52:04 2017
+# Reason: ERROR: ZBsFntczDoM: YouTube said: This video does not exist.
+https://youtube.com/watch?v=ZBsFntczDoM
+
+################################
+
+# Entry removed Sun Oct  8 18:03:08 2017
+# Reason: ERROR: UiQcYNEFx_E: YouTube said: This video is not available.
+https://youtube.com/watch?v=UiQcYNEFx_E
+
+################################
+
+# Entry removed Sun Oct  8 18:18:34 2017
+# Reason: ERROR: BxmZovupVYU: YouTube said: This video contains content from SME, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=BxmZovupVYU
+
+################################
+
+# Entry removed Sun Oct  8 18:47:22 2017
+# Reason: ERROR: The uploader has not made this video available in your country.
+#          You might want to use a VPN or a proxy server (with --proxy) to workaround.
+https://youtube.com/watch?v=4fWyzwo1xg0
+
+################################
+
+# Entry removed Sun Oct  8 19:02:53 2017
+# Reason: ERROR: eZq5DdR_Aq4: YouTube said: This video does not exist.
+https://youtube.com/watch?v=eZq5DdR_Aq4
+
+################################
+
+# Entry removed Sun Oct  8 20:30:20 2017
+# Reason: ERROR: bbw1r32MJpY: YouTube said: "If You Could See M..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=bbw1r32MJpY
+
+################################
+
+# Entry removed Sun Oct  8 20:44:45 2017
+# Reason: ERROR: aUmOqNU3cqw: YouTube said: "Oscar Peterson  - Peterson ..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=aUmOqNU3cqw
+
+################################
+
+# Entry removed Sun Oct  8 20:49:31 2017
+# Reason: ERROR: EMHLXMt-6Og: YouTube said: This video is not available.
+https://youtube.com/watch?v=EMHLXMt-6Og
+
+################################
+
+# Entry removed Sun Oct  8 21:12:10 2017
+# Reason: ERROR: xqKwozw9Tww: YouTube said: This video is not available.
+https://youtube.com/watch?v=xqKwozw9Tww
+
+################################
+
+# Entry removed Fri Oct 13 12:47:33 2017
+# Reason: ERROR: aS_sAa37xag: YouTube said: This video does not exist.
+https://youtube.com/watch?v=aS_sAa37xag
+
+################################
+
+# Entry removed Fri Oct 13 13:51:15 2017
+# Reason: ERROR: rWpTr-vVT-0: YouTube said: This video is not available.
+https://youtube.com/watch?v=rWpTr-vVT-0
+
+################################
+
+# Entry removed Fri Oct 13 14:49:39 2017
+# Reason: ERROR: 6sfe_8RAaJ0: YouTube said: Please sign in to view this video.
+https://youtube.com/watch?v=6sfe_8RAaJ0
+
+################################
+
+# Entry removed Fri Oct 13 16:17:35 2017
+# Reason: ERROR: 1etbYLm05W4: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=1etbYLm05W4
+
+################################
+
+# Entry removed Fri Oct 13 16:59:33 2017
+# Reason: ERROR: hRjQmIqA1dY: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=hRjQmIqA1dY
+
+################################
+
+# Entry removed Fri Oct 13 17:07:30 2017
+# Reason: ERROR: el9WpGaoLFw: YouTube said: This video is not available.
+https://youtube.com/watch?v=el9WpGaoLFw
+
+################################
+
+# Entry removed Fri Oct 13 17:28:59 2017
+# Reason: ERROR: rwYU8jq6Qw0: YouTube said: This video is not available.
+https://youtube.com/watch?v=rwYU8jq6Qw0
+
+################################
+
+# Entry removed Fri Oct 13 17:37:24 2017
+# Reason: ERROR: Z--UAlidTyI: YouTube said: This video does not exist.
+https://youtube.com/watch?v=Z--UAlidTyI
+
+################################
+
+# Entry removed Fri Oct 13 17:50:27 2017
+# Reason: ERROR: 1SW2HlX94eg: YouTube said: This video is not available.
+https://youtube.com/watch?v=1SW2HlX94eg
+
+################################
+
+# Entry removed Mon Oct 16 16:22:10 2017
+# Reason: ERROR: BLR_wRa0hXo: YouTube said: This video is not available.
+https://youtube.com/watch?v=BLR_wRa0hXo
+
+################################
+
+# Entry removed Sun Oct 22 11:44:27 2017
+# Reason: ERROR: 1DWD_hEz4HI: YouTube said: This video has been removed by the user.
+https://youtube.com/watch?v=1DWD_hEz4HI
+
+################################
+
+# Entry removed Sun Oct 22 12:49:09 2017
+# Reason: ERROR: 3kOWGBDJALY: YouTube said: This video contains content from Warner Chappell, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=3kOWGBDJALY
+
+################################
+
+# Entry removed Sun Oct 22 15:38:58 2017
+# Reason: ERROR: RbMS0BzOMV0: YouTube said: This video has been removed by the user.
+https://youtube.com/watch?v=RbMS0BzOMV0
+
+################################
+
+# Entry removed Sun Oct 22 22:37:55 2017
+# Reason: ERROR: ERnVdMkIJtc: YouTube said: "Chance The Rapper  -  No Pr..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=ERnVdMkIJtc
+
+################################
+
+# Entry removed Mon Oct 23 00:37:53 2017
+# Reason: ERROR: mDQHqNf-IEg: YouTube said: This video is not available.
+https://youtube.com/watch?v=mDQHqNf-IEg
+
+################################
+
+# Entry removed Thu Nov  9 12:19:56 2017
+# Reason: ERROR: LAoZSikvqz8: YouTube said: This video contains content from justente, who has blocked it in your country on copyright grounds.
+https://youtube.com/watch?v=LAoZSikvqz8
+
+################################
+
+# Entry removed Thu Nov  9 12:28:13 2017
+# Reason: ERROR: oyveOd7jOx4: YouTube said: This video does not exist.
+https://youtube.com/watch?v=oyveOd7jOx4
+
+################################
+
+# Entry removed Thu Nov  9 14:33:04 2017
+# Reason: ERROR: lrfhf1Gv4Tw: YouTube said: This video contains content from WMG, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=lrfhf1Gv4Tw
+
+################################
+
+# Entry removed Thu Nov  9 15:12:30 2017
+# Reason: ERROR: D2qAj2XnLYo: YouTube said: "The Beatles - Hey Jude - Ta..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=D2qAj2XnLYo
+
+################################
+
+# Entry removed Thu Nov  9 15:54:43 2017
+# Reason: ERROR: 46Cfrl7hMoQ: YouTube said: "Paul Simon - Me and Julio D..."
+#          The YouTube account associated with this video has been terminated due to multiple third-party notifications of copyright infringement.
+https://youtube.com/watch?v=46Cfrl7hMoQ
+
+################################
+
+# Entry removed Thu Nov  9 17:49:56 2017
+# Reason: ERROR: GqH21LEmfbQ: YouTube said: "The Clash - Should I Sta..."
+#          This video is no longer available due to a copyright claim by a third party.
+https://youtube.com/watch?v=GqH21LEmfbQ
+
+################################
+
+# Entry removed Thu Nov  9 17:50:00 2017
+# Reason: ERROR: quMlRhlVR3I: YouTube said: This video contains content from Believe Music, who has blocked it on copyright grounds.
+https://youtube.com/watch?v=quMlRhlVR3I
+
+################################
+
