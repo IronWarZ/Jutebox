@@ -1,1 +1,1 @@
-worker: node runbot.bat
+worker: node runbot_linux.sh
