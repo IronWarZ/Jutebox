@@ -1,1 +1,1 @@
-runbot.bat
+worker: node runbot.bat
